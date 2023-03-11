@@ -1,0 +1,771 @@
+INFO:django.utils.autoreload:/home/maksym/PycharmProjects/Wall/WallAPI/wall_building_inspector/wall_building_logic/wall.py changed, reloading.
+DEBUG:wall_building_inspector.wall_building_logic.wall:---------------------------------------------
+DEBUG:wall_building_inspector.wall_building_logic.wall:Starting new run with 50 teams
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 24 finished section 24 in profile 1 on day 1
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 5 finished section 5 in profile 1 on day 4
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 28 finished section 28 in profile 1 on day 4
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 26 finished section 26 in profile 1 on day 5
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 5 finished section 53 in profile 1 on day 5
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 27 finished section 27 in profile 1 on day 6
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 36 finished section 36 in profile 1 on day 6
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 45 finished section 45 in profile 1 on day 7
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 22 finished section 22 in profile 1 on day 8
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 7 finished section 7 in profile 1 on day 9
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 12 finished section 12 in profile 1 on day 9
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 8 finished section 8 in profile 1 on day 10
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 43 finished section 43 in profile 1 on day 10
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 20 finished section 20 in profile 1 on day 10
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 39 finished section 39 in profile 1 on day 10
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 44 finished section 44 in profile 1 on day 10
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 40 finished section 40 in profile 1 on day 11
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 49 finished section 50 in profile 1 on day 12
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 19 finished section 19 in profile 1 on day 14
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 40 finished section 68 in profile 1 on day 14
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 30 finished section 30 in profile 1 on day 15
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 31 finished section 31 in profile 1 on day 15
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 1 finished section 1 in profile 1 on day 15
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 12 finished section 62 in profile 1 on day 16
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 46 finished section 46 in profile 1 on day 16
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 9 finished section 9 in profile 1 on day 17
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 38 finished section 38 in profile 1 on day 17
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 28 finished section 54 in profile 1 on day 17
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 10 finished section 10 in profile 1 on day 18
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 6 finished section 6 in profile 1 on day 18
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 32 finished section 32 in profile 1 on day 18
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 25 finished section 25 in profile 1 on day 18
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 11 finished section 11 in profile 1 on day 19
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 29 finished section 29 in profile 1 on day 19
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 37 finished section 37 in profile 1 on day 19
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 39 finished section 66 in profile 1 on day 19
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 47 finished section 47 in profile 1 on day 20
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 24 finished section 52 in profile 1 on day 20
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 35 finished section 35 in profile 1 on day 20
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 22 finished section 60 in profile 1 on day 21
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 15 finished section 15 in profile 1 on day 21
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 33 finished section 33 in profile 1 on day 21
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 10 finished section 80 in profile 1 on day 22
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 24 finished section 90 in profile 1 on day 22
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 28 finished section 79 in profile 1 on day 22
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 8 finished section 63 in profile 1 on day 24
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 3 finished section 3 in profile 1 on day 24
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 11 finished section 84 in profile 1 on day 24
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 14 finished section 14 in profile 1 on day 24
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 27 finished section 57 in profile 1 on day 25
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 39 finished section 87 in profile 1 on day 25
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 42 finished section 42 in profile 1 on day 26
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 30 finished section 72 in profile 1 on day 26
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 48 finished section 49 in profile 1 on day 26
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 2 finished section 2 in profile 1 on day 27
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 16 finished section 16 in profile 1 on day 27
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 21 finished section 21 in profile 1 on day 27
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 44 finished section 67 in profile 1 on day 27
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 23 finished section 23 in profile 1 on day 27
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 25 finished section 83 in profile 1 on day 28
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 34 finished section 34 in profile 1 on day 28
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 41 finished section 41 in profile 1 on day 28
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 6 finished section 81 in profile 1 on day 29
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 13 finished section 13 in profile 1 on day 29
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 17 finished section 17 in profile 1 on day 29
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 27 finished section 102 in profile 1 on day 29
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 22 finished section 92 in profile 1 on day 29
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 18 finished section 18 in profile 1 on day 29
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 50 finished section 51 in profile 1 on day 29
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 4 finished section 4 in profile 1 on day 30
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 7 finished section 61 in profile 1 on day 30
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 45 finished section 59 in profile 1 on day 30
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 2 finished section 107 in profile 1 on day 31
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 29 finished section 85 in profile 1 on day 31
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 5 finished section 56 in profile 1 on day 31
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 14 finished section 101 in profile 1 on day 32
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 1 finished section 74 in profile 1 on day 32
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 8 finished section 98 in profile 1 on day 32
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 48 finished section 106 in profile 1 on day 32
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 26 finished section 55 in profile 1 on day 32
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 35 finished section 91 in profile 1 on day 33
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 28 finished section 97 in profile 1 on day 33
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 30 finished section 105 in profile 1 on day 33
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 47 finished section 89 in profile 1 on day 33
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 15 finished section 93 in profile 1 on day 34
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 20 finished section 65 in profile 1 on day 35
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 46 finished section 76 in profile 1 on day 35
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 36 finished section 58 in profile 1 on day 36
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 43 finished section 64 in profile 1 on day 36
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 21 finished section 109 in profile 1 on day 37
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 22 finished section 119 in profile 1 on day 38
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 6 finished section 115 in profile 1 on day 38
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 40 finished section 71 in profile 1 on day 38
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 49 finished section 69 in profile 1 on day 38
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 4 finished section 122 in profile 1 on day 39
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 49 finished section 147 in profile 1 on day 39
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 8 finished section 130 in profile 1 on day 40
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 29 finished section 126 in profile 1 on day 40
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 38 finished section 78 in profile 1 on day 40
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 36 finished section 140 in profile 1 on day 41
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 11 finished section 100 in profile 1 on day 42
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 27 finished section 118 in profile 1 on day 42
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 24 finished section 96 in profile 1 on day 42
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 34 finished section 113 in profile 1 on day 42
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 1 finished section 129 in profile 1 on day 43
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 3 finished section 99 in profile 1 on day 43
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 12 finished section 75 in profile 1 on day 43
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 19 finished section 70 in profile 1 on day 43
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 11 finished section 154 in profile 1 on day 43
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 14 finished section 128 in profile 1 on day 43
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 42 finished section 104 in profile 1 on day 43
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 9 finished section 77 in profile 1 on day 43
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 5 finished section 127 in profile 1 on day 44
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 41 finished section 114 in profile 1 on day 44
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 45 finished section 124 in profile 1 on day 44
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 31 finished section 73 in profile 1 on day 44
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 29 finished section 151 in profile 1 on day 44
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 28 finished section 134 in profile 1 on day 45
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 34 finished section 157 in profile 1 on day 45
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 16 finished section 108 in profile 1 on day 45
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 49 finished section 149 in profile 1 on day 46
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 14 finished section 163 in profile 1 on day 46
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 27 finished section 155 in profile 1 on day 46
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 25 finished section 112 in profile 1 on day 47
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 10 finished section 95 in profile 1 on day 47
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 42 finished section 164 in profile 1 on day 47
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 15 finished section 137 in profile 1 on day 48
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 32 finished section 82 in profile 1 on day 48
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 38 finished section 152 in profile 1 on day 48
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 25 finished section 178 in profile 1 on day 48
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 33 finished section 94 in profile 1 on day 48
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 37 finished section 86 in profile 1 on day 48
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 39 finished section 103 in profile 1 on day 48
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 18 finished section 120 in profile 1 on day 49
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 6 finished section 144 in profile 1 on day 49
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 8 finished section 150 in profile 1 on day 49
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 24 finished section 156 in profile 1 on day 49
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 26 finished section 132 in profile 1 on day 49
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 25 finished section 184 in profile 1 on day 49
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 46 finished section 139 in profile 1 on day 49
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 3 finished section 159 in profile 1 on day 50
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 50 finished section 121 in profile 1 on day 50
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 13 finished section 116 in profile 1 on day 50
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 42 finished section 180 in profile 1 on day 50
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 35 finished section 133 in profile 1 on day 50
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 1 finished section 158 in profile 1 on day 51
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 28 finished section 171 in profile 1 on day 51
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 48 finished section 131 in profile 1 on day 51
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 14 finished section 176 in profile 1 on day 52
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 21 finished section 142 in profile 1 on day 53
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 25 finished section 193 in profile 1 on day 53
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 44 finished section 110 in profile 1 on day 53
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 29 finished section 170 in profile 1 on day 54
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 16 finished section 173 in profile 1 on day 55
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 34 finished section 172 in profile 1 on day 55
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 46 finished section 194 in profile 1 on day 56
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 23 finished section 111 in profile 1 on day 57
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 40 finished section 146 in profile 1 on day 57
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 17 finished section 117 in profile 1 on day 57
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 22 finished section 143 in profile 1 on day 57
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 3 finished section 195 in profile 1 on day 58
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 4 finished section 148 in profile 1 on day 58
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 36 finished section 153 in profile 1 on day 58
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 47 finished section 136 in profile 1 on day 59
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 38 finished section 183 in profile 1 on day 59
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 9 finished section 165 in profile 1 on day 60
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 30 finished section 135 in profile 1 on day 60
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 7 finished section 123 in profile 1 on day 60
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 2 finished section 125 in profile 1 on day 60
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 13 finished section 197 in profile 1 on day 60
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 41 finished section 167 in profile 1 on day 60
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 23 finished section 211 in profile 1 on day 61
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 32 finished section 182 in profile 1 on day 61
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 13 finished section 225 in profile 1 on day 61
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 36 finished section 217 in profile 1 on day 61
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 20 finished section 138 in profile 1 on day 62
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 36 finished section 231 in profile 1 on day 62
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 26 finished section 192 in profile 1 on day 62
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 48 finished section 202 in profile 1 on day 62
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 5 finished section 166 in profile 1 on day 63
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 27 finished section 177 in profile 1 on day 63
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 43 finished section 141 in profile 1 on day 63
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 1 finished section 200 in profile 1 on day 64
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 42 finished section 198 in profile 1 on day 64
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 18 finished section 188 in profile 1 on day 64
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 12 finished section 160 in profile 1 on day 65
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 31 finished section 169 in profile 1 on day 65
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 16 finished section 208 in profile 1 on day 65
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 29 finished section 207 in profile 1 on day 65
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 28 finished section 201 in profile 1 on day 65
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 4 finished section 216 in profile 1 on day 65
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 49 finished section 175 in profile 1 on day 66
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 19 finished section 161 in profile 1 on day 67
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 42 finished section 240 in profile 1 on day 67
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 40 finished section 212 in profile 1 on day 67
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 34 finished section 209 in profile 1 on day 68
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 37 finished section 186 in profile 1 on day 68
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 25 finished section 205 in profile 1 on day 68
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 35 finished section 199 in profile 1 on day 68
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 23 finished section 228 in profile 1 on day 68
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 50 finished section 196 in profile 1 on day 68
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 27 finished section 237 in profile 1 on day 69
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 31 finished section 243 in profile 1 on day 69
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 8 finished section 190 in profile 1 on day 70
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 6 finished section 189 in profile 1 on day 70
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 12 finished section 242 in profile 1 on day 71
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 11 finished section 162 in profile 1 on day 71
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 22 finished section 214 in profile 1 on day 71
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 44 finished section 206 in profile 1 on day 71
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 27 finished section 258 in profile 1 on day 71
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 29 finished section 245 in profile 1 on day 72
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 10 finished section 179 in profile 1 on day 72
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 5 finished section 236 in profile 1 on day 72
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 33 finished section 185 in profile 1 on day 72
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 45 finished section 168 in profile 1 on day 72
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 15 finished section 181 in profile 1 on day 72
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 25 finished section 254 in profile 1 on day 73
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 32 finished section 229 in profile 1 on day 74
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 14 finished section 203 in profile 1 on day 74
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 39 finished section 187 in profile 1 on day 74
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 23 finished section 256 in profile 1 on day 75
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 46 finished section 210 in profile 1 on day 75
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 17 finished section 213 in profile 1 on day 75
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 46 finished section 278 in profile 1 on day 76
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 41 finished section 227 in profile 1 on day 76
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 30 finished section 222 in profile 1 on day 77
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 6 finished section 261 in profile 1 on day 77
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 40 finished section 251 in profile 1 on day 77
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 24 finished section 191 in profile 1 on day 78
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 49 finished section 248 in profile 1 on day 79
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 21 finished section 204 in profile 1 on day 80
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 46 finished section 281 in profile 1 on day 80
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 47 finished section 219 in profile 1 on day 80
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 7 finished section 223 in profile 1 on day 81
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 39 finished section 276 in profile 1 on day 81
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 12 finished section 262 in profile 1 on day 82
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 28 finished section 246 in profile 1 on day 82
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 42 finished section 250 in profile 1 on day 82
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 2 finished section 224 in profile 1 on day 83
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 20 finished section 232 in profile 1 on day 83
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 9 finished section 221 in profile 1 on day 83
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 15 finished section 272 in profile 1 on day 83
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 46 finished section 289 in profile 1 on day 83
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 1 finished section 239 in profile 1 on day 84
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 3 finished section 215 in profile 1 on day 85
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 29 finished section 267 in profile 1 on day 85
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 20 finished section 297 in profile 1 on day 85
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 5 finished section 269 in profile 1 on day 85
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 13 finished section 230 in profile 1 on day 85
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 22 finished section 264 in profile 1 on day 85
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 11 finished section 263 in profile 1 on day 86
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 37 finished section 253 in profile 1 on day 86
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 12 finished section 293 in profile 1 on day 86
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 10 finished section 268 in profile 1 on day 86
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 2 finished section 296 in profile 1 on day 87
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 8 finished section 260 in profile 1 on day 88
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 16 finished section 244 in profile 1 on day 89
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 48 finished section 235 in profile 1 on day 89
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 38 finished section 220 in profile 1 on day 89
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 17 finished section 279 in profile 1 on day 90
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 26 finished section 234 in profile 1 on day 90
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 15 finished section 299 in profile 1 on day 91
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 24 finished section 286 in profile 1 on day 91
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 19 finished section 249 in profile 1 on day 91
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 22 finished section 307 in profile 1 on day 92
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 50 finished section 257 in profile 1 on day 92
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 14 finished section 275 in profile 1 on day 92
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 36 finished section 233 in profile 1 on day 92
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 44 finished section 265 in profile 1 on day 92
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 43 finished section 238 in profile 1 on day 92
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 45 finished section 271 in profile 1 on day 93
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 35 finished section 255 in profile 1 on day 93
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 23 finished section 277 in profile 1 on day 93
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 48 finished section 316 in profile 1 on day 93
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 18 finished section 241 in profile 1 on day 94
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 43 finished section 328 in profile 1 on day 94
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 17 finished section 318 in profile 1 on day 94
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 33 finished section 270 in profile 1 on day 94
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 4 finished section 247 in profile 1 on day 95
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 2 finished section 313 in profile 1 on day 95
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 41 finished section 282 in profile 1 on day 95
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 34 finished section 252 in profile 1 on day 96
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 46 finished section 300 in profile 1 on day 96
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 40 finished section 285 in profile 1 on day 96
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 44 finished section 327 in profile 1 on day 96
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 6 finished section 284 in profile 1 on day 98
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 16 finished section 315 in profile 1 on day 98
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 27 finished section 266 in profile 1 on day 98
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 31 finished section 259 in profile 1 on day 98
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 38 finished section 317 in profile 1 on day 99
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 30 finished section 283 in profile 1 on day 99
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 3 finished section 302 in profile 1 on day 100
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 18 finished section 333 in profile 1 on day 100
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 21 finished section 288 in profile 1 on day 100
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 19 finished section 322 in profile 1 on day 101
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 39 finished section 292 in profile 1 on day 101
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 23 finished section 331 in profile 1 on day 101
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 4 finished section 337 in profile 1 on day 101
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 25 finished section 273 in profile 1 on day 102
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 13 finished section 306 in profile 1 on day 102
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 15 finished section 320 in profile 1 on day 102
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 29 finished section 303 in profile 1 on day 102
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 31 finished section 347 in profile 1 on day 102
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 50 finished section 324 in profile 1 on day 102
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 24 finished section 321 in profile 1 on day 102
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 32 finished section 274 in profile 1 on day 103
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 24 finished section 364 in profile 1 on day 103
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 12 finished section 311 in profile 1 on day 104
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 9 finished section 298 in profile 1 on day 104
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 2 finished section 338 in profile 1 on day 105
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 47 finished section 290 in profile 1 on day 105
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 49 finished section 287 in profile 1 on day 105
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 11 finished section 309 in profile 1 on day 107
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 28 finished section 294 in profile 1 on day 107
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 16 finished section 345 in profile 1 on day 107
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 41 finished section 339 in profile 1 on day 107
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 10 finished section 312 in profile 1 on day 108
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 15 finished section 359 in profile 1 on day 108
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 37 finished section 310 in profile 1 on day 108
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 7 finished section 291 in profile 1 on day 109
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 37 finished section 378 in profile 1 on day 109
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 32 finished section 365 in profile 1 on day 110
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 1 finished section 301 in profile 1 on day 110
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 17 finished section 335 in profile 1 on day 110
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 32 finished section 381 in profile 1 on day 111
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 35 finished section 330 in profile 1 on day 111
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 30 finished section 349 in profile 1 on day 111
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 39 finished section 354 in profile 1 on day 111
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 42 finished section 295 in profile 1 on day 111
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 36 finished section 326 in profile 1 on day 111
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 26 finished section 319 in profile 1 on day 112
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 4 finished section 356 in profile 1 on day 112
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 20 finished section 304 in profile 1 on day 112
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 38 finished section 348 in profile 1 on day 112
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 46 finished section 341 in profile 1 on day 112
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 32 finished section 384 in profile 1 on day 113
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 22 finished section 323 in profile 1 on day 113
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 46 finished section 395 in profile 1 on day 113
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 5 finished section 305 in profile 1 on day 113
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 13 finished section 358 in profile 1 on day 113
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 17 finished section 383 in profile 1 on day 113
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 16 finished section 374 in profile 1 on day 114
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 2 finished section 369 in profile 1 on day 114
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 43 finished section 334 in profile 1 on day 114
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 40 finished section 342 in profile 1 on day 114
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 44 finished section 343 in profile 1 on day 115
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 4 finished section 391 in profile 1 on day 116
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 33 finished section 336 in profile 1 on day 116
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 31 finished section 362 in profile 1 on day 116
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 48 finished section 332 in profile 1 on day 116
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 43 finished section 404 in profile 1 on day 116
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 19 finished section 353 in profile 1 on day 117
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 9 finished section 368 in profile 1 on day 117
+INFO:django.utils.autoreload:/home/maksym/PycharmProjects/Wall/WallAPI/wall_building_inspector/wall_building_logic/wall.py changed, reloading.
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 8 finished section 314 in profile 1 on day 118
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 11 finished section 372 in profile 1 on day 118
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 29 finished section 361 in profile 1 on day 118
+DEBUG:wall_building_inspector.wall_building_logic.wall:---------------------------------------------
+DEBUG:wall_building_inspector.wall_building_logic.wall:Starting new run with 50 teams
+INFO:django.utils.autoreload:/home/maksym/PycharmProjects/Wall/WallAPI/wall_building_inspector/wall_building_logic/wall.py changed, reloading.
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 24 finished section 24 in profile 1 on day 1
+DEBUG:wall_building_inspector.wall_building_logic.wall:---------------------------------------------
+DEBUG:wall_building_inspector.wall_building_logic.wall:Starting new run with 50 teams
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 24 finished section 24 in profile 1 on day 1
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 5 finished section 5 in profile 1 on day 4
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 28 finished section 28 in profile 1 on day 4
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 26 finished section 26 in profile 1 on day 5
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 5 finished section 53 in profile 1 on day 5
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 27 finished section 27 in profile 1 on day 6
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 36 finished section 36 in profile 1 on day 6
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 45 finished section 45 in profile 1 on day 7
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 22 finished section 22 in profile 1 on day 8
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 7 finished section 7 in profile 1 on day 9
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 12 finished section 12 in profile 1 on day 9
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 43 finished section 43 in profile 1 on day 10
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 20 finished section 20 in profile 1 on day 10
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 44 finished section 44 in profile 1 on day 10
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 39 finished section 39 in profile 1 on day 10
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 8 finished section 8 in profile 1 on day 10
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 40 finished section 40 in profile 1 on day 11
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 49 finished section 50 in profile 1 on day 12
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 19 finished section 19 in profile 1 on day 14
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 40 finished section 68 in profile 1 on day 14
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 1 finished section 1 in profile 1 on day 15
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 30 finished section 30 in profile 1 on day 15
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 31 finished section 31 in profile 1 on day 15
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 12 finished section 62 in profile 1 on day 16
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 46 finished section 46 in profile 1 on day 16
+DEBUG:wall_building_inspector.wall_building_logic.wall:---------------------------------------------
+DEBUG:wall_building_inspector.wall_building_logic.wall:Starting new run with 50 teams
+INFO:django.utils.autoreload:/home/maksym/PycharmProjects/Wall/WallAPI/wall_building_inspector/wall_building_logic/wall.py changed, reloading.
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 24 finished section 24 in profile 1 on day 1
+DEBUG:wall_building_inspector.wall_building_logic.wall:---------------------------------------------
+DEBUG:wall_building_inspector.wall_building_logic.wall:Starting new run with 50 teams
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 24 finished section 24 in profile 1 on day 1
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 5 finished section 5 in profile 1 on day 4
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 28 finished section 28 in profile 1 on day 4
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 5 finished section 53 in profile 1 on day 5
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 26 finished section 26 in profile 1 on day 5
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 27 finished section 27 in profile 1 on day 6
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 36 finished section 36 in profile 1 on day 6
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 45 finished section 45 in profile 1 on day 7
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 22 finished section 22 in profile 1 on day 8
+DEBUG:wall_building_inspector.wall_building_logic.wall:---------------------------------------------
+DEBUG:wall_building_inspector.wall_building_logic.wall:Starting new run with 50 teams
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 24 finished section 24 in profile 1 on day 1
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 5 finished section 5 in profile 1 on day 4
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 28 finished section 28 in profile 1 on day 4
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 5 finished section 53 in profile 1 on day 5
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 26 finished section 26 in profile 1 on day 5
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 27 finished section 27 in profile 1 on day 6
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 36 finished section 36 in profile 1 on day 6
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 45 finished section 45 in profile 1 on day 7
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 22 finished section 22 in profile 1 on day 8
+DEBUG:wall_building_inspector.wall_building_logic.wall:---------------------------------------------
+DEBUG:wall_building_inspector.wall_building_logic.wall:Starting new run with 50 teams
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 24 finished section 24 in profile 1 on day 1
+DEBUG:wall_building_inspector.wall_building_logic.wall:---------------------------------------------
+DEBUG:wall_building_inspector.wall_building_logic.wall:Starting new run with 50 teams
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 24 finished section 24 in profile 1 on day 1
+WARNING:django.request:Not Found: /profiles/1/day/1
+DEBUG:wall_building_inspector.wall_building_logic.wall:---------------------------------------------
+DEBUG:wall_building_inspector.wall_building_logic.wall:Starting new run with 50 teams
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 74 finished section 24 in profile 1 on day 1
+DEBUG:wall_building_inspector.wall_building_logic.wall:---------------------------------------------
+DEBUG:wall_building_inspector.wall_building_logic.wall:Starting new run with 50 teams
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 124 finished section 24 in profile 1 on day 1
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 105 finished section 5 in profile 1 on day 4
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 128 finished section 28 in profile 1 on day 4
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 105 finished section 53 in profile 1 on day 5
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 126 finished section 26 in profile 1 on day 5
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 136 finished section 36 in profile 1 on day 6
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 127 finished section 27 in profile 1 on day 6
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 145 finished section 45 in profile 1 on day 7
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 122 finished section 22 in profile 1 on day 8
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 112 finished section 12 in profile 1 on day 9
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 107 finished section 7 in profile 1 on day 9
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 108 finished section 8 in profile 1 on day 10
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 144 finished section 44 in profile 1 on day 10
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 139 finished section 39 in profile 1 on day 10
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 143 finished section 43 in profile 1 on day 10
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 120 finished section 20 in profile 1 on day 10
+INFO:django.utils.autoreload:/home/maksym/PycharmProjects/Wall/WallAPI/wall_building_inspector/wall_building_logic/wall.py changed, reloading.
+DEBUG:wall_building_inspector.wall_building_logic.wall:---------------------------------------------
+DEBUG:wall_building_inspector.wall_building_logic.wall:Starting new run with 50 teams
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 24 finished section 24 in profile 1 on day 1
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 5 finished section 5 in profile 1 on day 4
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 28 finished section 28 in profile 1 on day 4
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 26 finished section 26 in profile 1 on day 5
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 5 finished section 53 in profile 1 on day 5
+DEBUG:wall_building_inspector.wall_building_logic.wall:---------------------------------------------
+DEBUG:wall_building_inspector.wall_building_logic.wall:Starting new run with 50 teams
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 60 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 61 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 62 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 63 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 64 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 65 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 66 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 67 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 68 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 69 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 70 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 71 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 72 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 73 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 74 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 75 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 76 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 77 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 78 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 79 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 80 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 81 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 82 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 83 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 84 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 85 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 86 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 87 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 88 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 89 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 90 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 91 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 92 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 93 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 94 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 95 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 96 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 97 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 98 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 99 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 100 relieved immediately (on day 1)
+DEBUG:wall_building_inspector.wall_building_logic.wall:---------------------------------------------
+DEBUG:wall_building_inspector.wall_building_logic.wall:Starting new run with 50 teams
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 110 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 111 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 112 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 113 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 114 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 115 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 116 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 117 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 118 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 119 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 120 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 121 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 122 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 123 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 124 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 125 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 126 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 127 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 128 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 129 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 130 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 131 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 132 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 133 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 134 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 135 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 136 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 137 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 138 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 139 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 140 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 141 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 142 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 143 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 144 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 145 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 146 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 147 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 148 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 149 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 150 relieved immediately (on day 1)
+DEBUG:wall_building_inspector.wall_building_logic.wall:---------------------------------------------
+DEBUG:wall_building_inspector.wall_building_logic.wall:Starting new run with 50 teams
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 160 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 161 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 162 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 163 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 164 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 165 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 166 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 167 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 168 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 169 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 170 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 171 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 172 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 173 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 174 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 175 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 176 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 177 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 178 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 179 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 180 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 181 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 182 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 183 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 184 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 185 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 186 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 187 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 188 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 189 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 190 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 191 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 192 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 193 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 194 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 195 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 196 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 197 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 198 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 199 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 200 relieved immediately (on day 1)
+WARNING:django.request:Not Found: /profiles/overview/
+INFO:django.utils.autoreload:/home/maksym/PycharmProjects/Wall/WallAPI/wall_building_inspector/urls.py changed, reloading.
+INFO:django.utils.autoreload:/home/maksym/PycharmProjects/Wall/WallAPI/wall_building_inspector/urls.py changed, reloading.
+DEBUG:wall_building_inspector.wall_building_logic.wall:---------------------------------------------
+DEBUG:wall_building_inspector.wall_building_logic.wall:Starting new run with 50 teams
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 10 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 11 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 12 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 13 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 14 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 15 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 16 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 17 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 18 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 19 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 20 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 21 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 22 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 23 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 24 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 25 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 26 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 27 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 28 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 29 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 30 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 31 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 32 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 33 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 34 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 35 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 36 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 37 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 38 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 39 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 40 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 41 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 42 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 43 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 44 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 45 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 46 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 47 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 48 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 49 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 50 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 3 finished section 3 in profile 1 on day 2
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 3 relieved on day 2
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 2 finished section 2 in profile 1 on day 5
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 2 relieved on day 5
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 6 finished section 2 in profile 3 on day 8
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 6 relieved on day 8
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 1 finished section 1 in profile 1 on day 9
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 1 relieved on day 9
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 8 finished section 4 in profile 3 on day 11
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 8 relieved on day 11
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 9 finished section 5 in profile 3 on day 13
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 4 finished section 1 in profile 2 on day 13
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 5 finished section 1 in profile 3 on day 13
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 7 finished section 3 in profile 3 on day 13
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 9 relieved on day 13
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 4 relieved on day 13
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 5 relieved on day 13
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 7 relieved on day 13
+INFO:django.utils.autoreload:/home/maksym/PycharmProjects/Wall/WallAPI/wall_building_inspector/wall_building_logic/wall.py changed, reloading.
+INFO:django.utils.autoreload:/home/maksym/PycharmProjects/Wall/WallAPI/wall_building_inspector/wall_building_logic/wall.py changed, reloading.
+INFO:django.utils.autoreload:/home/maksym/PycharmProjects/Wall/WallAPI/WallAPI/settings.py changed, reloading.
+DEBUG:wall_building_inspector.wall_building_logic.wall:---------------------------------------------
+DEBUG:wall_building_inspector.wall_building_logic.wall:Starting new run with 50 teams
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 10 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 11 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 12 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 13 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 14 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 15 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 16 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 17 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 18 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 19 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 20 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 21 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 22 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 23 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 24 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 25 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 26 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 27 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 28 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 29 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 30 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 31 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 32 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 33 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 34 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 35 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 36 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 37 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 38 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 39 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 40 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 41 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 42 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 43 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 44 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 45 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 46 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 47 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 48 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 49 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 50 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 3 finished section 3 in profile 1 on day 2
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 3 relieved on day 2
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 2 finished section 2 in profile 1 on day 5
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 2 relieved on day 5
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 6 finished section 2 in profile 3 on day 8
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 6 relieved on day 8
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 1 finished section 1 in profile 1 on day 9
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 1 relieved on day 9
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 8 finished section 4 in profile 3 on day 11
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 8 relieved on day 11
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 7 finished section 3 in profile 3 on day 13
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 7 relieved on day 13
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 4 finished section 1 in profile 2 on day 13
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 5 finished section 1 in profile 3 on day 13
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 9 finished section 5 in profile 3 on day 13
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 4 relieved on day 13
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 5 relieved on day 13
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 9 relieved on day 13
+DEBUG:wall_building_inspector.wall_building_logic.wall:---------------------------------------------
+DEBUG:wall_building_inspector.wall_building_logic.wall:Starting new run with 50 teams
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 60 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 61 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 62 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 63 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 64 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 65 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 66 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 67 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 68 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 69 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 70 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 71 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 72 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 73 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 74 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 75 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 76 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 77 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 78 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 79 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 80 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 81 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 82 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 83 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 84 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 85 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 86 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 87 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 88 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 89 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 90 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 91 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 92 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 93 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 94 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 95 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 96 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 97 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 98 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 99 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 100 relieved immediately (on day 1)
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 53 finished section 3 in profile 1 on day 2
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 53 relieved on day 2
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 52 finished section 2 in profile 1 on day 5
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 52 relieved on day 5
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 56 finished section 2 in profile 3 on day 8
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 56 relieved on day 8
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 51 finished section 1 in profile 1 on day 9
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 51 relieved on day 9
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 58 finished section 4 in profile 3 on day 11
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 58 relieved on day 11
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 54 finished section 1 in profile 2 on day 13
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 54 relieved on day 13
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 55 finished section 1 in profile 3 on day 13
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 59 finished section 5 in profile 3 on day 13
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 59 relieved on day 13
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 57 finished section 3 in profile 3 on day 13
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 57 relieved on day 13
+INFO:wall_building_inspector.wall_building_logic.wall:Work team 55 relieved on day 13
